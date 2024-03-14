@@ -1,7 +1,7 @@
 {
     "chain_name": "crossfi"
     "api": [
-        {"provider": "Happy Solution", "address": ""https://crossfi-testnet-api.happysolution.online"}
+        {"provider": "Happy Solution", "address": "https://crossfi-testnet-api.happysolution.online"}
     ],
     "rpc": [
         {"provider": "Stake-Take", "address": "https://rpc.happysolution.online"}
