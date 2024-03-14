@@ -4,7 +4,7 @@
         {"provider": "Happy Solution", "address": "https://crossfi-testnet-api.happysolution.online"}
     ],
     "rpc": [
-        {"provider": "Stake-Take", "address": "https://rpc.happysolution.online"}
+        {"provider": "Happy Solution", "address": "https://rpc.happysolution.online"}
     ],
     "snapshot_provider": "",
     "sdk_version": "v0.47.6",
