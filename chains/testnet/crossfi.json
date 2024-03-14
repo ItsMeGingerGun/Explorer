@@ -1,10 +1,10 @@
 {
     "chain_name": "crossfi"
     "api": [
-        {"provider": "Stake-Take", "address": "https://api.crossfi.stake-take.com"}
+        {"provider": "Happy Solution", "address": ""https://crossfi-testnet-api.happysolution.online"}
     ],
     "rpc": [
-        {"provider": "Stake-Take", "address": "https://rpc.crossfi.stake-take.com"}
+        {"provider": "Stake-Take", "address": "https://rpc.happysolution.online"}
     ],
     "snapshot_provider": "",
     "sdk_version": "v0.47.6",
